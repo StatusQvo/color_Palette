@@ -1,0 +1,25 @@
+body {
+  background-color: #c4c6c6;
+}
+
+.myavatar {
+  width: 200px;
+}
+
+.div-my-table {
+  display: flex;
+  justify-content: center;
+  margin: 60px 0 300px 0;
+}
+
+.my-table td {
+  border: 1px solid rgb(47, 47, 47);
+  padding: 10px;
+  margin: 0;
+  border-spacing: 0;
+}
+
+.my-table {
+  border-spacing: 0;
+  width: 40%;
+}
